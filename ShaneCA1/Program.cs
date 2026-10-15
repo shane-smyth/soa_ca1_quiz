@@ -1,3 +1,4 @@
+using ShaneCA1;
 using ShaneCA1.Components;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -5,6 +6,11 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+builder.Services.AddHttpClient<IMovieService, MovieService>(client =>
+    client.BaseAddress = new Uri("https://api.themoviedb.org/3/"));
+
+builder.Services.AddScoped<MovieGame>();
 
 var app = builder.Build();
 
