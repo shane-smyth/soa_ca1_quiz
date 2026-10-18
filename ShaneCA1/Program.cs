@@ -1,5 +1,6 @@
 using ShaneCA1;
 using ShaneCA1.Components;
+using System.Net.Http.Headers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,8 +10,15 @@ builder.Services.AddRazorComponents()
 
 builder.Services.AddHttpClient<IMovieService, MovieService>(client =>
     client.BaseAddress = new Uri("https://api.themoviedb.org/3/"));
-
 builder.Services.AddScoped<MovieGame>();
+
+builder.Services.AddHttpClient<ICountryService, CountryService>(client =>
+{
+    client.BaseAddress = new Uri("https://api.restcountries.com/");
+    client.DefaultRequestHeaders.Authorization =
+        new AuthenticationHeaderValue("Bearer", builder.Configuration["RestCountriesApiKey"]);
+});
+builder.Services.AddScoped<FlagGame>();
 
 var app = builder.Build();
 
