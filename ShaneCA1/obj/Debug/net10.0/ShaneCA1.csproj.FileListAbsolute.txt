@@ -72,8 +72,6 @@ C:\Users\shane\OneDrive - Dundalk Institute of Technology\DKIT\Year 4\soa\ca1\Sh
 C:\Users\shane\OneDrive - Dundalk Institute of Technology\DKIT\Year 4\soa\ca1\ShaneCA1\ShaneCA1\obj\Debug\net10.0\compressed\q8zi5bcxh3-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\shane\OneDrive - Dundalk Institute of Technology\DKIT\Year 4\soa\ca1\ShaneCA1\ShaneCA1\obj\Debug\net10.0\compressed\xflkffid2x-{0}-9hsif5t8mt-9hsif5t8mt.gz
 C:\Users\shane\OneDrive - Dundalk Institute of Technology\DKIT\Year 4\soa\ca1\ShaneCA1\ShaneCA1\obj\Debug\net10.0\compressed\48x16omsq4-{0}-dwu72t6gfx-dwu72t6gfx.gz
-C:\Users\shane\OneDrive - Dundalk Institute of Technology\DKIT\Year 4\soa\ca1\ShaneCA1\ShaneCA1\obj\Debug\net10.0\compressed\fpbwsh7iym-{0}-n0wspfo19b-n0wspfo19b.gz
-C:\Users\shane\OneDrive - Dundalk Institute of Technology\DKIT\Year 4\soa\ca1\ShaneCA1\ShaneCA1\obj\Debug\net10.0\compressed\so3yg40z1l-{0}-n0wspfo19b-n0wspfo19b.gz
 C:\Users\shane\OneDrive - Dundalk Institute of Technology\DKIT\Year 4\soa\ca1\ShaneCA1\ShaneCA1\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\shane\OneDrive - Dundalk Institute of Technology\DKIT\Year 4\soa\ca1\ShaneCA1\ShaneCA1\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\shane\OneDrive - Dundalk Institute of Technology\DKIT\Year 4\soa\ca1\ShaneCA1\ShaneCA1\obj\Debug\net10.0\staticwebassets.development.json
@@ -84,3 +82,5 @@ C:\Users\shane\OneDrive - Dundalk Institute of Technology\DKIT\Year 4\soa\ca1\Sh
 C:\Users\shane\OneDrive - Dundalk Institute of Technology\DKIT\Year 4\soa\ca1\ShaneCA1\ShaneCA1\obj\Debug\net10.0\ShaneCA1.pdb
 C:\Users\shane\OneDrive - Dundalk Institute of Technology\DKIT\Year 4\soa\ca1\ShaneCA1\ShaneCA1\obj\Debug\net10.0\ShaneCA1.genruntimeconfig.cache
 C:\Users\shane\OneDrive - Dundalk Institute of Technology\DKIT\Year 4\soa\ca1\ShaneCA1\ShaneCA1\obj\Debug\net10.0\ref\ShaneCA1.dll
+C:\Users\shane\OneDrive - Dundalk Institute of Technology\DKIT\Year 4\soa\ca1\ShaneCA1\ShaneCA1\obj\Debug\net10.0\compressed\fpbwsh7iym-{0}-4xvoup7jxa-4xvoup7jxa.gz
+C:\Users\shane\OneDrive - Dundalk Institute of Technology\DKIT\Year 4\soa\ca1\ShaneCA1\ShaneCA1\obj\Debug\net10.0\compressed\so3yg40z1l-{0}-4xvoup7jxa-4xvoup7jxa.gz

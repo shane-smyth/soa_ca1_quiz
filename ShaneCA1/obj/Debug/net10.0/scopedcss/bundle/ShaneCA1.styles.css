@@ -148,16 +148,8 @@ main[b-98nhm74ffm] {
 
 .nav-item[b-hxxmlhtkib] {
     font-size: 0.9rem;
-    padding-bottom: 0.5rem;
+    padding-bottom: 0;
 }
-
-    .nav-item:first-of-type[b-hxxmlhtkib] {
-        padding-top: 1rem;
-    }
-
-    .nav-item:last-of-type[b-hxxmlhtkib] {
-        padding-bottom: 1rem;
-    }
 
     .nav-item[b-hxxmlhtkib]  .nav-link {
         color: #d7d7d7;
@@ -167,8 +159,9 @@ main[b-98nhm74ffm] {
         height: 3rem;
         display: flex;
         align-items: center;
-        line-height: 3rem;
+        line-height: 1;
         width: 100%;
+        padding: 0 1rem;
     }
 
 .nav-item[b-hxxmlhtkib]  a.active {
